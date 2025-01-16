@@ -1,0 +1,21 @@
+2025-01-16 12:00:56 - Circle - Radius: 0,00, Area: 0,00, Perimeter: 0,00
+2025-01-16 12:00:59 - Circle - Radius: 2,00, Area: 12,57, Perimeter: 12,57
+2025-01-16 12:01:13 - Cone - Radius: 0,00, Height: 0,00, Surface Area: 0,00, Volume: 0,00
+2025-01-16 12:01:16 - Cone - Radius: 12,00, Height: 14,00, Surface Area: 1147,53, Volume: 2111,15
+2025-01-16 12:01:28 - Cube - Side: 0,00, Surface Area: 0,00, Volume: 0,00
+2025-01-16 12:01:51 - Parallelogram - Sides: 2,00, 1,00, Heights: 0,50, 0,00, Angles: 0,00, 0,00, Diagonals: 0,00, 0,00, Area: 1,00, Perimeter: 6,00
+2025-01-16 12:01:59 - Parallelogram - Sides: 2,00, 1,00, Heights: 0,00, 0,00, Angles: 30,00, 0,00, Diagonals: 0,00, 0,00, Area: 1,00, Perimeter: 6,00
+2025-01-16 12:02:11 - Parallelogram - Sides: 2,00, 1,00, Heights: 0,00, 0,00, Angles: 60,00, 0,00, Diagonals: 0,00, 0,00, Area: 1,73, Perimeter: 6,00
+2025-01-16 12:02:23 - Parallelogram - Sides: 2,00, 1,00, Heights: 0,00, 0,00, Angles: 0,00, 180,00, Diagonals: 0,00, 0,00, Area: 0,00, Perimeter: 6,00
+2025-01-16 12:02:34 - Parallelogram - Sides: 0,00, 0,00, Heights: 0,00, 0,00, Angles: 0,00, 0,00, Diagonals: 14,00, 18,00, Area: 98,00, Perimeter: 39,60
+2025-01-16 12:03:13 - Triangle - Sides: 1,00, 1,00, 1,00, Angles: 0,00, 0,00, 0,00, Area: 0,43, Perimeter: 3,00
+2025-01-16 12:03:19 - Triangle - Sides: 1,00, 1,00, 0,00, Angles: 0,00, 0,00, 0,00, Area: 0,00, Perimeter: 0,00
+2025-01-16 12:03:54 - Triangle - Sides: 0,00, 0,00, 5,00, Angles: 60,00, 30,00, 90,00, Area: 0,00, Perimeter: 0,00
+2025-01-16 12:03:59 - Triangle - Sides: 0,00, 0,00, 5,00, Angles: 60,00, 0,00, 90,00, Area: 0,00, Perimeter: 0,00
+2025-01-16 12:04:05 - Triangle - Sides: 0,00, 0,00, 5,00, Angles: 0,00, 30,00, 90,00, Area: 0,00, Perimeter: 0,00
+2025-01-16 12:09:15 - Circle - Radius: 2,00, Area: 12,57, Perimeter: 12,57
+2025-01-16 12:09:22 - Circle - Radius: 0,00, Area: 0,00, Perimeter: 0,00
+2025-01-16 12:09:26 - Circle - Radius: 5,00, Area: 78,54, Perimeter: 31,42
+2025-01-16 12:09:30 - Circle - Radius: 5,00, Area: 78,54, Perimeter: 31,42
+2025-01-16 12:12:47 - Circle - Radius: -3,00, Area: 0,00, Perimeter: 0,00
+2025-01-16 12:12:49 - Circle - Radius: 3,00, Area: 28,27, Perimeter: 18,85

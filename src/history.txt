@@ -1,9 +1,0 @@
-2025-01-14 23:24:57 - Parallelogram - Sides: 0,00, 0,00, Heights: 0,00, 0,00, Angles: 0,00, 0,00, Diagonals: 0,00, 0,00, Area: 0,00, Perimeter: 0,00
-2025-01-14 23:25:19 - Rhombus - Side: 0,00, Height: 0,00, Angles: 0,00, 0,00, Diagonals: 0,00, 0,00, Area: 0,00, Perimeter: 0,00
-2025-01-14 23:25:24 - Rectangle - Length: 0,00, Width: 0,00, Area: 0,00, Perimeter: 0,00
-2025-01-14 23:31:19 - Parallelogram - Sides: 0,00, 0,00, Heights: 0,00, 0,00, Angles: 0,00, 0,00, Diagonals: 0,00, 0,00, Area: 0,00, Perimeter: 0,00
-2025-01-14 23:31:28 - Parallelogram - Sides: -5,00, 0,00, Heights: 0,00, 0,00, Angles: 0,00, 0,00, Diagonals: 0,00, 0,00, Area: 0,00, Perimeter: 0,00
-2025-01-14 23:32:04 - Parallelogram - Sides: 0,00, 0,00, Heights: 0,00, 0,00, Angles: 0,00, 0,00, Diagonals: 0,00, 0,00, Area: 0,00, Perimeter: 0,00
-2025-01-14 23:32:43 - Rectangle - Length: 0,00, Width: 0,00, Area: 0,00, Perimeter: 0,00
-2025-01-14 23:37:09 - Parallelepiped - Length: 0,00, Width: 0,00, Height: 0,00, Surface Area: 0,00, Volume: 0,00
-2025-01-14 23:37:15 - Cube - Side: 0,00, Surface Area: 0,00, Volume: 0,00

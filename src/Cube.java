@@ -1,23 +1,49 @@
+import javax.swing.*;
 
-class Cube extends ThreeDimensionalFigure {
-	private double sideLength;
+class Cube extends Figure3d {
+    private double side;
 
-	public Cube(double sideLength) {
-		this.sideLength = sideLength;
-	}
+    public Cube(double sideLength) {
+        this.side = sideLength;
+    }
 
-	@Override
-	double calculateArea() {
-		return 6 * Math.pow(sideLength, 2);
-	}
+    //Method to calculate area
+    @Override
+    double calculateArea() {
+        if (side > 0) {
+            // Existing area calculation logic
+            return 6 * Math.pow(side, 2);
+        }
+        else if (side<=0)
+        {
+            // If invalid information is provided
+            JOptionPane.showMessageDialog(null, "Invalid input.", "Calculation Error", JOptionPane.ERROR_MESSAGE);
+            return -1;
+        }
+        else {
+            // If insufficient information is provided
+            JOptionPane.showMessageDialog(null, "Insufficient information to calculate area.", "Calculation Error", JOptionPane.ERROR_MESSAGE);
+            return -1;
+        }
+    }
 
-	@Override
-	double calculatePerimeter() {
-		return 12 * sideLength;
-	}
-
-	@Override
-	double calculateVolume() {
-		return Math.pow(sideLength, 3);
-	}
+    //Method to calculate volume
+    @Override
+    double calculateVolume() {
+        if(side>0) {
+            // Existing area calculation logic
+            return Math.pow(side, 3);
+        }
+        else if (side<=0)
+        {
+            // If invalid information is provided
+            JOptionPane.showMessageDialog(null, "Invalid input.", "Calculation Error", JOptionPane.ERROR_MESSAGE);
+            return -1;
+        }
+        else {
+            // If insufficient information is provided
+            JOptionPane.showMessageDialog(null, "Insufficient information to calculate volume.", "Calculation Error", JOptionPane.ERROR_MESSAGE);
+            return -1;
+        }
+    }
 }
